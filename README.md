@@ -7,5 +7,5 @@ Para utilizar deste projeto:
 <br>
 Comando para rodar o front:
 <li>-npm i</li>
-<li>-npm run dev/li>
+<li>-npm run dev</li>
 
